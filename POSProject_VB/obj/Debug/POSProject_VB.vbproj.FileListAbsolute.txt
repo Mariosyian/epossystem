@@ -1,0 +1,32 @@
+D:\Users\mario\Desktop\POSProject_VB\POSProject_VB\bin\Debug\POSProject_VB.exe.config
+D:\Users\mario\Desktop\POSProject_VB\POSProject_VB\bin\Debug\POSProject_VB.exe
+D:\Users\mario\Desktop\POSProject_VB\POSProject_VB\bin\Debug\POSProject_VB.pdb
+D:\Users\mario\Desktop\POSProject_VB\POSProject_VB\bin\Debug\POSProject_VB.xml
+D:\Users\mario\Desktop\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.vbprojAssemblyReference.cache
+D:\Users\mario\Desktop\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.Resources.resources
+D:\Users\mario\Desktop\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.vbproj.GenerateResource.cache
+D:\Users\mario\Desktop\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.vbproj.CoreCompileInputs.cache
+D:\Users\mario\Desktop\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.exe
+D:\Users\mario\Desktop\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.xml
+D:\Users\mario\Desktop\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.pdb
+D:\Users\mario\Desktop\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.POS.resources
+D:\Users\mario\Desktop\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.Mode.resources
+D:\Users\mario\Desktop\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.MainMenu.resources
+D:\Users\mario\Desktop\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.Order.resources
+D:\Users\mario\Desktop\My Stuff\Codes\POSProject_VB\POSProject_VB\bin\Debug\products.mdb
+D:\Users\mario\Desktop\My Stuff\Codes\POSProject_VB\POSProject_VB\bin\Debug\POSProject_VB.exe.config
+D:\Users\mario\Desktop\My Stuff\Codes\POSProject_VB\POSProject_VB\bin\Debug\POSProject_VB.exe
+D:\Users\mario\Desktop\My Stuff\Codes\POSProject_VB\POSProject_VB\bin\Debug\POSProject_VB.pdb
+D:\Users\mario\Desktop\My Stuff\Codes\POSProject_VB\POSProject_VB\bin\Debug\POSProject_VB.xml
+D:\Users\mario\Desktop\My Stuff\Codes\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.vbprojAssemblyReference.cache
+D:\Users\mario\Desktop\My Stuff\Codes\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.POS.resources
+D:\Users\mario\Desktop\My Stuff\Codes\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.MainMenu.resources
+D:\Users\mario\Desktop\My Stuff\Codes\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.Mode.resources
+D:\Users\mario\Desktop\My Stuff\Codes\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.Resources.resources
+D:\Users\mario\Desktop\My Stuff\Codes\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.Order.resources
+D:\Users\mario\Desktop\My Stuff\Codes\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.vbproj.GenerateResource.cache
+D:\Users\mario\Desktop\My Stuff\Codes\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.vbproj.CoreCompileInputs.cache
+D:\Users\mario\Desktop\My Stuff\Codes\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.exe
+D:\Users\mario\Desktop\My Stuff\Codes\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.xml
+D:\Users\mario\Desktop\My Stuff\Codes\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.pdb
+D:\Users\mario\Desktop\My Stuff\Codes\POSProject_VB\POSProject_VB\obj\Debug\POSProject_VB.TotalPrice.resources
